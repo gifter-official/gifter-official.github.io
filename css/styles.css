@@ -2692,8 +2692,8 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #8338ec;
+  border-color: #8338ec;
 }
 .btn-dark:hover {
   color: #fff;
@@ -10173,7 +10173,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/newsletter-background-01.png");
+  background-image: url("../assets/img/landing-page-background-01.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10196,7 +10196,7 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 10rem;
+    padding-top: 14rem;
     padding-bottom: 12.5rem;
   }
   header.masthead .masthead-subheading {
